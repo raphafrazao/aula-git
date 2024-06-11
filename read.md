@@ -9,6 +9,7 @@
 
 ## Salvando alterações no Git 
 
+* uso comando git restore 
 
 
 
