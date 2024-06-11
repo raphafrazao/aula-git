@@ -11,8 +11,7 @@
 
 * uso comando git restore 
 * comando git push
-* comando git pull
-* 
+## testando mais uma vez o código
 
 
 
